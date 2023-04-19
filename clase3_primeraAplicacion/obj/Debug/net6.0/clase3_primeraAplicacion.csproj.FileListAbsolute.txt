@@ -1,0 +1,15 @@
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\bin\Debug\net6.0\clase3_primeraAplicacion.exe
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\bin\Debug\net6.0\clase3_primeraAplicacion.deps.json
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\bin\Debug\net6.0\clase3_primeraAplicacion.runtimeconfig.json
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\bin\Debug\net6.0\clase3_primeraAplicacion.dll
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\bin\Debug\net6.0\clase3_primeraAplicacion.pdb
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.csproj.AssemblyReference.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.AssemblyInfoInputs.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.AssemblyInfo.cs
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.csproj.CoreCompileInputs.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.dll
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\refint\clase3_primeraAplicacion.dll
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.pdb
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\clase3_primeraAplicacion.genruntimeconfig.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase3_primeraAplicacion\obj\Debug\net6.0\ref\clase3_primeraAplicacion.dll

@@ -1,0 +1,15 @@
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\bin\Debug\net6.0\clase4_ejercicioModa.exe
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\bin\Debug\net6.0\clase4_ejercicioModa.deps.json
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\bin\Debug\net6.0\clase4_ejercicioModa.runtimeconfig.json
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\bin\Debug\net6.0\clase4_ejercicioModa.dll
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\bin\Debug\net6.0\clase4_ejercicioModa.pdb
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.csproj.AssemblyReference.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.AssemblyInfoInputs.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.AssemblyInfo.cs
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.csproj.CoreCompileInputs.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.dll
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\refint\clase4_ejercicioModa.dll
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.pdb
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\clase4_ejercicioModa.genruntimeconfig.cache
+C:\Users\Matias Barboza\source\repos\ProgramacionIII\clase4_ejercicioModa\obj\Debug\net6.0\ref\clase4_ejercicioModa.dll
