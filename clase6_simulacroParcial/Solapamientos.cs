@@ -68,6 +68,5 @@ namespace clase6_simulacroParcial
             return intervaloAux.Final;
         }
 
-
     }
 }
