@@ -15,8 +15,8 @@ internal class Program
             Console.ReadLine();
             Console.Clear();
 
-            String sqlString = "Select count(*) From Clientes";
-            String sqlString1 = "Select Id, Nombre, Apellido From Clientes";
+            String sqlString = "SELECT count(*) FROM Clientes";
+            String sqlString1 = "SELECT Id, Nombre, Apellido FROM Clientes";
 
             SqlCommand myCommand = new SqlCommand(sqlString,cn);
             SqlCommand myCommand1 = new SqlCommand(sqlString1,cn);
